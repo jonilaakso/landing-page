@@ -1,6 +1,3 @@
-[submodule "themes/LucentLink-Hugo"] 
-  path = themes/LucentLink-Hugo 
-  url = https://github.com/jonilaakso/LucentLink-Hugo.git
-[submodule "LucentLink-Hugo"]
-	path = LucentLink-Hugo
+[submodule "themes/LucentLink-Hugo"]
+	path = themes/LucentLink-Hugo
 	url = https://github.com/jonilaakso/LucentLink-Hugo.git

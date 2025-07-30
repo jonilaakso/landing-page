@@ -1,0 +1,12 @@
+baseURL = "https://laakso.dev/"
+languageCode = "en-us"
+title = "laakso.dev"
+theme = "LucentLink-Hugo"
+minVersion = "0.115.0"
+
+[params]
+  description     = "Infosec | Gaming | Writing"
+  googleAnalytics = ""    # your GA ID, if any
+
+[outputs]
+  home = ["HTML"]

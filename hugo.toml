@@ -10,3 +10,7 @@ minVersion = "0.115.0"
 
 [outputs]
   home = ["HTML"]
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

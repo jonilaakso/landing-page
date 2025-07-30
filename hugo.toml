@@ -1,6 +1,6 @@
 baseURL = "https://laakso.dev/"
 languageCode = "en-us"
-title = "laakso.dev"
+title = "Laakso.dev"
 theme = "LucentLink-Hugo"
 minVersion = "0.115.0"
 

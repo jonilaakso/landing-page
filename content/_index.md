@@ -22,7 +22,7 @@ socials:
 links:
   - href: "https://vault.laakso.dev"
     icon: "fas fa-brain"
-    title: "My Vault of Knowledge | Second Brain"
+    title: "My Vault of Knowledge | Digital Garden | Second Brain"
   #   description: "Check out my portfolio"
   # - href: "https://blog.your.site"
   #   icon: "fas fa-blog"
